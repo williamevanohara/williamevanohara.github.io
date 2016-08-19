@@ -3,7 +3,9 @@ layout: post
 title: Open Music Theory
 ---
 
-**Open Music Theory** is an open-source, interactive, online "text"book for college-level music theory courses. OMT was built on resources authored by Kris Shaffer, Bryn Hughes, and Brian Moseley. It is edited by Kris Shaffer and Robin Wharton, and is published by [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing). 
+This is William O'Hara's personal fork of [Open Music Theory](http://www.openmusictheory.com). A work in progress, it contains some terminological changes from the original, for the purposes of my own teaching.
+
+**Open Music Theory** is an open-source, interactive, online "text"book for college-level music theory courses. OMT was built on resources authored by Kris Shaffer, Bryn Hughes, and Brian Moseley. It is edited by Kris Shaffer and Robin Wharton, and is published by [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing).
 
 Major funding and technological support (including the building of the technology behind the interactive music notation modules found in this text) came from the team at [Trinket](http://www.trinket.io).
 
